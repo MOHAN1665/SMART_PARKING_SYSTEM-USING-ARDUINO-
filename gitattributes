@@ -1,0 +1,4 @@
+*.c++ linguist-detectable=true
+*.python linguist-detectable=false
+*.html linguist-detectable=false
+
